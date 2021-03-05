@@ -57,14 +57,6 @@ DEC++ can be invoked from the command line with the following possible arguments
 
     where `NUM_THREADS` is the number of threads to utilize in parallel and `TARGET` can be either "x86" (default) or "simulator".
 
-## API Documentation
-
-In order to integrate other core or accelerator models with MosaicSim and have them interract together, we have documented an API. See Section E in the linked document: https://www.overleaf.com/project/5c87bee2b8ed496eb059acfb
-
-We also provide further documentation about the simulator and compiler within the DECADES project in the next repo:
-
-  https://github.com/PrincetonUniversity/decades_documentation
-
 ## Workloads
 
 We provide further workloads, used withing the DECADES project in the next repo:
