@@ -3,6 +3,8 @@
 The GraphAttack compiler is adapted from the [DECADES compiler](https://github.com/PrincetonUniversity/DECADEScompiler).
 Below are instructions on how to build and run the compiler:
 
+-----
+
 Prerequisites -----
 
 DEC++ is built on LLVM/Clang. It is able to compile to riscv64
